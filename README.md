@@ -28,3 +28,5 @@ python calculator.py
 ## 👨‍💻 Author
 
 Jegede Eniola Seun Enoch
+
+Computer Science Student | Python Developer | Aspiring Software Engineer
